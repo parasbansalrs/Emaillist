@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Emaillist/static/css/main.a9e6f1b8.css",
+    "main.js": "/Emaillist/static/js/main.b5b3244d.js",
+    "static/js/787.a0ba3714.chunk.js": "/Emaillist/static/js/787.a0ba3714.chunk.js",
+    "index.html": "/Emaillist/index.html",
+    "main.a9e6f1b8.css.map": "/Emaillist/static/css/main.a9e6f1b8.css.map",
+    "main.b5b3244d.js.map": "/Emaillist/static/js/main.b5b3244d.js.map",
+    "787.a0ba3714.chunk.js.map": "/Emaillist/static/js/787.a0ba3714.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9e6f1b8.css",
+    "static/js/main.b5b3244d.js"
+  ]
+}
